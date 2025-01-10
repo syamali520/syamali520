@@ -1,6 +1,6 @@
 - 👋 Hi, I’m syamali
 - 👀 I’m interested in Full Stack Web-development
-- 🌱 I’m currently learning Full Stack development
+- 🌱 I’m currently learning Full Stack development with java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...syamalilingathoti@gmail.com
 - 😄 Pronouns: ...She/Her
